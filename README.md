@@ -1,4 +1,4 @@
-# misc
+# Misc
 This repository contains various mini-programs
 
 
