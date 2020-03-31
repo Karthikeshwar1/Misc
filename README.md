@@ -2,5 +2,8 @@
 This repository contains various mini-programs
 
 
-simple-number-guesser:
-uses standard deviation formula to guess numbers
+Simple-number-guesser:
+Uses standard deviation formula to guess numbers
+
+Prime-numbers-(2-lines-program)
+Using list comprehensions, you can print prime numbers in just one line.
